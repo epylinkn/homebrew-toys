@@ -1,9 +1,9 @@
 class Ahead < Formula
   desc "STOOPID Calendar preview written in Rust"
   homepage "https://github.com/epylinkn/ahead"
-  url "https://github.com/epylinkn/ahead/archive/v0.1.0.tar.gz"
-  sha256 "415a1d6a26d4d2c021154a99790ca916b914bdb8852b7102a60e89a0fa9724b1"
-  version "0.1.0"
+  url "https://github.com/epylinkn/ahead/releases/download/v0.1.1/ahead-mac.tar.gz"
+  sha256 "807a762109ff76b89519ef101f9ef2001f265a89d0d698372cee40a1fafd31d9"
+  version "0.1.1"
 
   depends_on "ical-buddy"
 
